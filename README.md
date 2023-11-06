@@ -1,6 +1,6 @@
 # @plaited/token-utils
 
-[![build/tests](https://github.com/plaited/plaited/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/plaited/plaited/actions/workflows/tests.yml)
+[![build/tests](https://github.com/plaited/token-utils/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/plaited/token-utils/actions/workflows/tests.yml)
 
 This mono repo serves as the workspace for working on our design token
 development libraries.
