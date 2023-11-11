@@ -1,5 +1,4 @@
-import { Component } from '@plaited/component'
-import { css, stylesheets } from '@plaited/jsx'
+import { css, stylesheets, Component } from 'plaited'
 
 export const TokensTag = 'design-tokens'
 
