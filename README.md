@@ -1,4 +1,4 @@
-# @plaited/token-utils
+# Plaited token uitils
 
 [![build/tests](https://github.com/plaited/token-utils/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/plaited/token-utils/actions/workflows/tests.yml)
 
