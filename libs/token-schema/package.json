@@ -30,6 +30,9 @@
   "types": "./dist/index.d.ts",
   "dependencies": {
     "@plaited/token-types": "5.0.2",
-    "@plaited/utils": "^5.1.1"
+    "@plaited/utils": "^5.1.2"
+  },
+  "peerDependencies": {
+    "@plaited/utils": ">=5.1.2"
   }
 }
