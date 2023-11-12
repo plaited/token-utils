@@ -1,4 +1,5 @@
-import { css, stylesheets, Component } from 'plaited'
+import { css, Component } from 'plaited'
+import { stylesheets } from 'plaited/utils'
 
 export const TokensTag = 'design-tokens'
 
