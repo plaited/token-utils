@@ -1,3 +1,5 @@
+# Archived moving all future work to [plaited monorepo](https://github.com/plaited/plaited/tree/main/libs-token#readme)
+
 # Plaited design token utils
 
 [![build/tests](https://github.com/plaited/token-utils/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/plaited/token-utils/actions/workflows/tests.yml)
